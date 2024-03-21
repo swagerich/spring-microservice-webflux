@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: user-service
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/user-service-reactive
+    username: postgres
+    password: 12345
+  flyway:
+    url: jdbc:postgresql://localhost:5432/user-service-reactive
+    user: postgres
+    password: 12345
+server:
+  port: 8092

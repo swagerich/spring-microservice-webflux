@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-03-20T05:05:47.393+00:00",
+  "path": "/api/v1/users",
+  "status": 500,
+  "error": "Internal Server Error",
+  "requestId": "c5570f31-3"
+}

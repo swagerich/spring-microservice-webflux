@@ -1,0 +1,7 @@
+{
+  "timestamp": "2024-03-20T05:40:52.413+00:00",
+  "path": "/api/v1/transaction/transfer",
+  "status": 500,
+  "error": "Internal Server Error",
+  "requestId": "c30b1ea0-1"
+}
